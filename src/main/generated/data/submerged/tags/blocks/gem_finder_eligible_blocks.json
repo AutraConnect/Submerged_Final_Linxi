@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "submerged:sapphire_block",
+    "submerged:cracked_sapphire_block",
+    "minecraft:diamond_block",
+    "minecraft:diamond_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:emerald_block",
+    "minecraft:emerald_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster",
+    "submerged:sapphire_ore",
+    "submerged:deepslate_sapphire_ore",
+    "submerged:nether_sapphire_ore",
+    "submerged:end_sapphire_ore"
+  ]
+}

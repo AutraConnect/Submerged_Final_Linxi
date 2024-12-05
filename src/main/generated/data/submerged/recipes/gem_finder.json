@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "S": {
+      "item": "submerged:empowered_sapphire"
+    }
+  },
+  "pattern": [
+    " S ",
+    "G G",
+    " G "
+  ],
+  "result": {
+    "item": "submerged:gem_finder"
+  },
+  "show_notification": true
+}

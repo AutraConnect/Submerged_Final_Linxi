@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "submerged:cracked_sapphire_block",
+    "submerged:sapphire_block",
+    "submerged:sapphire_stairs",
+    "submerged:sapphire_slab",
+    "submerged:sapphire_button",
+    "submerged:sapphire_pressure_plate",
+    "submerged:sapphire_fence",
+    "submerged:sapphire_fence_gate",
+    "submerged:sapphire_wall",
+    "submerged:sapphire_door",
+    "submerged:sapphire_trapdoor",
+    "submerged:sapphire_ore",
+    "submerged:deepslate_sapphire_ore",
+    "submerged:nether_sapphire_ore",
+    "submerged:end_sapphire_ore"
+  ]
+}

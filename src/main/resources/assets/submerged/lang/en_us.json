@@ -1,0 +1,49 @@
+{
+  "itemgroup.submerged_group": "Autra Submerged",
+  "item.submerged.autra_logo": "Autra Logo",
+
+  "item.submerged.sapphire": "Sapphire",
+
+  "item.submerged.cracked_sapphire": "Cracked Sapphire",
+
+  "item.submerged.imbued_sapphire": "§6Imbued Sapphire§r",
+
+  "item.submerged.empowered_sapphire": "§5Empowered Sapphire§r",
+
+  "block.submerged.sapphire_block": "Sapphire Block",
+
+  "block.submerged.cracked_sapphire_block": "Cracked Sapphire Block",
+
+  "tooltip.submerged.empowered_sapphire.tooltip": "This sapphire vibrating gently",
+
+  "item.submerged.gem_finder": "Gem Finder",
+  "item.submerged.gem_finder.no_gems": "No Gems Found!",
+
+  "tooltip.submerged.gem_finder.tooltip.shift": "Press §eSHIFT§r for more information",
+
+  "tooltip.submerged.gem_finder.tooltip": "Right click on blocks to search for gems below!",
+
+  "block.submerged.sapphire_stairs": "Sapphire Stairs",
+  "block.submerged.sapphire_slab": "Sapphire Slab",
+  "block.submerged.sapphire_button": "Sapphire Button",
+  "block.submerged.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.submerged.sapphire_fence": "Sapphire Fence",
+  "block.submerged.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.submerged.sapphire_wall": "Sapphire Wall",
+  "block.submerged.sapphire_door": "Sapphire Door",
+  "block.submerged.sapphire_trapdoor": "Sapphire Trapdoor",
+
+  "item.submerged.sapphire_sword": "Sapphire Sword",
+  "item.submerged.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.submerged.sapphire_axe": "Sapphire Axe",
+  "item.submerged.sapphire_hoe": "Sapphire Hoe",
+  "item.submerged.sapphire_shovel": "Sapphire Shovel",
+
+  "enchantment.submerged.lightning_striker": "Lightning Striker",
+  "entity.minecraft.villager.gemcutter": "Gem Cutter",
+
+  "block.submerged.sapphire_ore": "Sapphire Ore",
+  "block.submerged.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.submerged.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.submerged.end_sapphire_ore": "End Sapphire Ore"
+}

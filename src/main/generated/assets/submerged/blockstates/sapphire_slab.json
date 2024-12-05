@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "submerged:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "submerged:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "submerged:block/sapphire_slab_top"
+    }
+  }
+}
